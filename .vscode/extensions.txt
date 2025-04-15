@@ -1,0 +1,3 @@
+waderyan.gitblame
+mhutchie.git-graph
+donjayamanne.githistory
